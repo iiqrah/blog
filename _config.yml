@@ -1,0 +1,62 @@
+site: aliyas logs.
+url: #yoururl
+title: aliyas logs.
+description: Blog of Jain Basil Aliyas
+twitter:
+  username: jainbasil
+  card: summary
+  creator: #yourusername
+author:
+  twitter: jainbasil
+  name: Jain Basil Aliyas
+  avatar:
+  email: mail@jainbasilaliyas.in
+  url: #yoururl
+permalink: pretty
+
+baseurl: ""
+
+highlighter: none
+
+exclude:
+  - .jekyll-cache
+  
+compress_html:
+  clippings: all
+  comments: ["<!-- ", " -->"]
+
+sass:
+  sass_dir: _sass
+  style: :compressed
+
+plugins:
+  - jekyll-paginate
+  - jekyll-seo-tag
+  - jekyll-sitemap  
+
+collections:
+  pages:
+    output: true
+    permalink: /:name
+  posts:
+    output: true
+    permalink: /:year/:month/:day/:slug
+  
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: "default"
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
