@@ -3,7 +3,7 @@ layout: post
 title: Adieu SAP Labs
 description: 
 summary: 
-comments: true
+comments: false
 tags: [life]
 ---
 
