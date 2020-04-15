@@ -1,9 +1,9 @@
 links:
-- title: aliyas logs
+- title: Writing
   url: /
-- title: about
+- title: About
   url: /about
-- title: search
+- title: Search
   url: /search
-- title: rss
+- title: RSS
   url: /atom.xml
