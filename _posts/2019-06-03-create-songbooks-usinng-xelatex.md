@@ -7,11 +7,9 @@ comments: true
 tags: [latex, technology]
 ---
 
-Recently, I decided to digitise my songbook (lyrics with chords annotated) using the TeX typesetting system. TeX provides amazing packages for typesetting songbooks. Since my collection had mostly Malayalam songs, XeLaTeX was my choice of TeX engine as it provides better support for non-Roman scripts - like Malayalam, Tamil etc. 
+Recently, I decided to digitise my songbook (lyrics with chords annotated) using the TeX typesetting system. TeX provides amazing packages for typesetting songbooks. Since my collection had mostly Malayalam songs, XeLaTeX was my choice of TeX engine which has better support for non-Roman scripts - like Malayalam, Tamil etc.
 
-There are several TeX packages available for typesetting song lyrics and chord books. I am using the `songbook` package which is fairly advanced in its features. 
-
-The following is a sample source code for generating lyrics of a famous Malayalam Melody - "തേരിറങ്ങും മുകിലെ", annotated with the chords.
+There are several TeX packages available for typesetting song lyrics and chord books. I am using the songbook package which is fairly advanced in its features. The following gist is a sample source code for generating lyrics of a famous Malayalam Melody - "തേരിറങ്ങും മുകിലെ", annotated with the chords.
 
 
 ```tex

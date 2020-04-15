@@ -4,20 +4,15 @@ layout: default
 
 <section class="post">
   <h2>{{ page.title }}</h2>
-  <small>Posted on {{ page.date | date: "%B %-d, %Y" }}, filed under {% for tag in page.tags %}
-    <a href="/tag/{{tag}}">{{tag}}</a>{% unless forloop.last %}, {% endunless %}{% endfor %}.</span></small>
   {{ content }}
+      
+
+  <span class="meta"><time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %-d, %Y" }}</time> &middot; {% for tag in page.tags %}
+    <a href="/tag/{{tag}}">{{tag}}</a>{% unless forloop.last %}, {% endunless %}{% endfor %}</span>
 
   {% if page.comments %}
-  <span class="meta">Feel free to email me any suggestions, correction or comments.</span>
+    {% include comments.html %}
   {% endif %}
-
-  <!-- 
-  <span class="meta"><time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %-d, %Y" }}</time>
-    &middot; {% for tag in page.tags %}
-    <a href="/tag/{{tag}}">{{tag}}</a>{% unless forloop.last %}, {% endunless %}{% endfor %}</span> -->
-  <!-- 
-  {% if page.comments %}
-  {% include comments.html %}
-  {% endif %} -->
 </section>
+
+
