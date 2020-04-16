@@ -1,13 +1,11 @@
 ---
 layout: post
 title: "An immense hope in hopelessness."
-description:
-summary:
-#comments: true
 category: Random Thoughts
 tags: [random thoughts, hopelessness]
 ---
 
+I feel extremely hopeless so I need to vent out my thoughts and come to terms with it.
 
 Hi there, no one.
 

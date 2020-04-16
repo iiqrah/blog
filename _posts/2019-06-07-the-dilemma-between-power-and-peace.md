@@ -1,12 +1,11 @@
 ---
 layout: post
 title: "The dilemma between power and peace."
-description:
-summary:
-#comments: true
 category: Random Thoughts
 tags: [random thoughts]
 ---
+
+The situation in Sudan currently has made me feel the need to write this post.
 
 I have been doing a pretty great job of being ignorant about the problems going on in this world lately. And after having experienced it myself, I do agree, ignorance is bliss.
 

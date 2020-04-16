@@ -1,12 +1,11 @@
 ---
 layout: post
 title: "The blame game in society."
-description:
-summary:
-#comments: true
 category: Random Thoughts
 tags: [random thoughts]
 ---
+
+The situation with GitHub and US sanction trade laws made me feel the need to write this post.
 
 I am deeply saddened and disgusted by what I came across my newsfeed right now about Iranians and citizens of a few other countries losing access to their GitHub benefits because of some US sanction trade laws.
 

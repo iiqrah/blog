@@ -1,13 +1,11 @@
 ---
 layout: post
 title: "My first failed suicide attempt."
-description:
-summary:
-#comments: true
 category: Random Thoughts
 tags: [random thoughts, suicide]
 ---
 
+I am in a really dark place and I need to vent out my emotions, it is too much to handle.
 
 Hi there, Iqrah.
 

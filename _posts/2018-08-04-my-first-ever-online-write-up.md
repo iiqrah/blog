@@ -1,13 +1,11 @@
 ---
 layout: post
 title: "My First Ever (Online) Write-Up"
-description:
-summary:
-#comments: true
 category: Random Thoughts
 tags: [random thoughts]
 ---
 
+This is me trying to write my first online, public facing write-up for the world to see.
 
 This feels so weird.
 

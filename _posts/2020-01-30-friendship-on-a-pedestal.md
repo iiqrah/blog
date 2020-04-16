@@ -1,12 +1,11 @@
 ---
 layout: post
 title: "Friendship on a pedestal."
-description:
-summary:
-#comments: true
 category: Random Thoughts
 tags: [random thoughts]
 ---
+
+A recent crush on a school friend made me write this post.
 
 Don't think you happen to notice but it's been a long time since I published a story.
 No real reason other than my mind being very scattered which has resulted in many half finished story drafts that I predict will remain unfinished for a long time because I have outgrown my trail of thought about them.
