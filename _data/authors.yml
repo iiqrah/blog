@@ -1,4 +1,10 @@
-jainbasil:
-    name: Jain Basil Aliyas
-    picture: /assets/images/logo.jpg
-    twitter: jainbasil
+# Authors
+
+Iqrah:
+  name: Iqrah
+  picture: /assets/images/logo.png
+  twitter: "@i_iqrah"
+  links:
+    - title: Twitter
+      url: https://twitter.com/i_iqrah
+      icon: fab fa-twitter-square
