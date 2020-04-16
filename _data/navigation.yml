@@ -2,9 +2,7 @@
   url: /
 - title: About
   url: /about/
-#- title: Categories
-#  url: /categories/
 - title: Archive
-  url: /posts/
+  url: /archive/
 - title: Search
   url: /search/
