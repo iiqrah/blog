@@ -23,10 +23,9 @@ plugins:
   - jekyll-archives
 
 google_fonts:
-  - name: "Source Sans Pro"
+  - name: "Permanent Marker"
     weights: "400,400i,700,700i"
-  - name: "Lora"
-    weights: "400,400i,700,700i"
+
 
 twitter:
   username: "i_iqrah"
