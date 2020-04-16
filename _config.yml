@@ -3,7 +3,7 @@ logo: /assets/images/logo.jpg
 email: mail@jainbasilaliyas.in
 description: >- 
   engineer &middot; human
-baseurl: ""
+baseurl: "/blog"
 twitter_username: jainbasil
 github_username:  jainbasil
 remote_theme: "mmistakes/so-simple-theme@3.2.0"
