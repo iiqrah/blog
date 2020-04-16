@@ -6,7 +6,7 @@ description: >-
 baseurl: ""
 twitter_username: jainbasil
 github_username:  jainbasil
-theme: jekyll-theme-minimal
+theme: jekyll-theme-so-simple
 
 # Build settings
 permalink: /:categories/:title/
