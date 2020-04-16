@@ -1,8 +1,10 @@
-- title: home
+- title: Home
   url: /
-- title: about
-  url: /about
-- title: categories
-  url: /categories
-- title: search
-  url: /search
+- title: About
+  url: /about/
+- title: Categories
+  url: /categories/
+- title: Archive
+  url: /posts/
+- title: Search
+  url: /search/
