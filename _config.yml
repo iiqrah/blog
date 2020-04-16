@@ -1,8 +1,8 @@
-title: Aliyas Logs
+title: Jain Basil Aliyas
 logo: /assets/images/logo.jpg
 email: mail@jainbasilaliyas.in
 description: >- 
-  ..blog of jainbasil..
+  engineer &middot; human
 baseurl: ""
 twitter_username: jainbasil
 github_username:  jainbasil
@@ -40,3 +40,9 @@ footer_links:
   - title: Feed
     url: atom.xml
     icon: fas fa-rss-square
+  - title: GitHub
+    url: https://www.github.com/jainbasil
+    icon: fab fa-github-square
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/jainbasil/
+    icon: fab fa-linkedin

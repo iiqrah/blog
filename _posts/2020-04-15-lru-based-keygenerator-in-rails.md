@@ -4,7 +4,7 @@ title: LRU-Cache based KeyGenerator in Rails
 description: 
 summary: 
 comments: true
-category: Ruby on Rails
+category: Ruby-on-Rails
 tags: [cache, cryptography]
 ---
 
