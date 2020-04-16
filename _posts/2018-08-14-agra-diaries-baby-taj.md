@@ -4,13 +4,15 @@ title: "Agra Diaries: Tomb of I’timād-Ud-Daulah"
 description: 
 summary: 
 comments: true
-tags: [travel]
+category: Travel
+tags: [india, photography]
 ---
 
 Recent family trip to Agra gave me an opportunity to visit Tomb of I’timad-Ud-Daulah, popularly named as Baby Taj. This Mughal-era mausoleum was commissioned by Nur Jahan, the wife of Jahangir, for her father Mirza Ghiyas Beg, on the eastern banks of the river Yamuna.
 
-![baby-taj-main](/assets/images/baby-taj-01.jpg)
-![baby-taj-entrance](/assets/images/baby-taj02.jpg)
+![baby-taj-main]({{ '/assets/images/baby-taj-01.jpg' | absolute_url }}){: .align-center}
+
+![baby-taj-entrance]({{ '/assets/images/baby-taj02.jpg' | absolute_url }}){: .align-center}
 
 I’timād-ud-Daulah was a title given to Mirza Ghiyas Beg which meant Pillar of the state. Taj Mahal, later built by Shah Jahan in memory of his wife Mumtaz Mahal (grand daughter of Mirza Ghiyas Beg, daughter of Nur Jahan), drew inspiration from this mughal mausoleum. 
 

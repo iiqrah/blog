@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About
+permalink: /about/
 ---
 
 My name is **Jain Basil Aliyas**, and this is my blog where I occassionally share my thoughts, experiences and some tutorials (which I think would help my readers). I am a software developer by profession, working primarily on the edtech industry. Ruby on Rails, Python 3 and Golang are the part of my toolbox and I love building scalable, performant systems on cloud.

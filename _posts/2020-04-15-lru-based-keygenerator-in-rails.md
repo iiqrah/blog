@@ -4,7 +4,8 @@ title: LRU-Cache based KeyGenerator in Rails
 description: 
 summary: 
 comments: true
-tags: [rails, cache, cryptography]
+category: Ruby on Rails
+tags: [cache, cryptography]
 ---
 
 The Active Support component of Ruby on Rails provides a class named [`KeyGenerator`](https://api.rubyonrails.org/classes/ActiveSupport/KeyGenerator.html) for generating secret keys. This is a wrapper around OpenSSL’s implementation of [PBKDF2](https://en.wikipedia.org/wiki/PBKDF2) (Password-Based Key Definition Function 2) and is commonly used to generate secrets keys for encryption use-cases.
@@ -17,7 +18,7 @@ We will see how we can solve this issue using a new wrapper around [`KeyGenerato
 
 > This cache has a bounded size specified by the `:size` options to the initializer (default is 32Mb). When the cache exceeds the allotted size, a cleanup will occur which tries to prune the cache down to three-quarters of the maximum size by removing the least recently used entries.
 
-```ruby
+{% highlight ruby %}
 class LruCachingKeyGenerator
   KEY_EXPIRY = 1.day  # expire the keys which are older than a day
 
@@ -37,6 +38,6 @@ class LruCachingKeyGenerator
     return generated_key
   end
 end
-```
+{% endhighlight %}
 
 As the default cache size is 32Mb, this helps to avoid memory hogging of our application while providing a cache for frequently used keys.

@@ -4,7 +4,8 @@ title: Winter Trails in Munnar
 description: Travelogue on a photo-journey to Munnar
 summary: 
 comments: true
-tags: [travel]
+category: Travel
+tags: [kerala, photography]
 ---
 
 Munnar, popularly known as “Kashmir of South India”, is a famous tourist destination in the Idukki district of Kerala state. Known for its picturesque hills and Neelakurinji (a shrub with purplish blue flowers that blossoms only once in 12 years ), it is one among most sought out destinations by the tourists visiting India.

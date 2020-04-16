@@ -1,62 +1,42 @@
-site: aliyas logs.
-url: #yoururl
-title: aliyas logs.
-description: Blog of Jain Basil Aliyas
-twitter:
-  username: jainbasil
-  card: summary
-  creator: #yourusername
-author:
-  twitter: jainbasil
-  name: Jain Basil Aliyas
-  avatar:
-  email: mail@jainbasilaliyas.in
-  url: #yoururl
-permalink: pretty
-
+title: Aliyas Logs
+logo: /assets/images/logo.jpg
+email: mail@jainbasilaliyas.in
+description: >- 
+  ..blog of jainbasil..
 baseurl: ""
+twitter_username: jainbasil
+github_username:  jainbasil
+theme: jekyll-theme-so-simple
 
-highlighter: rouge
-
-exclude:
-  - .jekyll-cache
-  
-compress_html:
-  clippings: all
-  comments: ["<!-- ", " -->"]
-
-sass:
-  sass_dir: _sass
-  style: :compressed
-
+# Build settings
+permalink: /:categories/:title/
+markdown: kramdown
+feed:
+  path: atom.xml
 plugins:
+  - jekyll-feed
   - jekyll-paginate
-  - jekyll-seo-tag
-  - jekyll-sitemap  
+  - jekyll-archives
 
-collections:
-  pages:
-    output: true
-    permalink: /:name
-  posts:
-    output: true
-    permalink: /:year/:month/:day/:slug
-  
-defaults:
-  -
-    scope:
-      path: ""
-    values:
-      layout: "default"
-  -
-    scope:
-      path: ""
-      type: "pages"
-    values:
-      layout: "page"
-  -
-    scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: "post"
+google_fonts:
+  - name: "Source Sans Pro"
+    weights: "400,400i,700,700i"
+  - name: "Lora"
+    weights: "400,400i,700,700i"
+
+paginate: 10
+paginate_path: /page:num/
+
+search_full_content: true
+
+category_archive_path: "/categories/#"
+tag_archive_path: "/tags/#"
+
+disqus:
+  shortname: aliyas-logs
+
+copyright: "&copy; 2020 - Jain Basil Aliyas"
+footer_links:
+  - title: Feed
+    url: atom.xml
+    icon: fas fa-rss-square

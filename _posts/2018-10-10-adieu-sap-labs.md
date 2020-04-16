@@ -4,6 +4,7 @@ title: Adieu SAP Labs
 description: 
 summary: 
 comments: true
+category: Work
 tags: [life]
 ---
 
