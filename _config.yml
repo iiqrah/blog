@@ -1,11 +1,11 @@
-title: Jain Basil Aliyas
-logo: /assets/images/logo.jpg
-email: mail@jainbasilaliyas.in
-description: >- 
-  engineer &middot; human
+title: Blog || iiqrah
+logo: /assets/images/logo.png
+email: mailto:hello@iiqrah.com
+description: >-
+  YouTube &middot; iOS Development &middot; Digital Art
 baseurl: "/blog"
-twitter_username: jainbasil
-github_username:  jainbasil
+twitter_username: i_iqrah
+github_username:  iiqrah
 remote_theme: "mmistakes/so-simple-theme@3.2.0"
 
 # Build settings
@@ -33,16 +33,22 @@ category_archive_path: "/categories/#"
 tag_archive_path: "/tags/#"
 
 disqus:
-  shortname: aliyas-logs
+  shortname: iiqrah
 
-copyright: "&copy; 2020 - Jain Basil Aliyas"
+copyright: "&copy; 2020 - iiqrah"
 footer_links:
-  - title: Feed
-    url: atom.xml
-    icon: fas fa-rss-square
+  - title: YouTube
+    url: https://www.youtube.com/iiqrah
+    icon: fab fa-youtube-square
+  - title: Twitter
+    url: https://www.twitter.com/i_iqrah
+    icon: fab fa-twitter-square
   - title: GitHub
-    url: https://www.github.com/jainbasil
+    url: https://www.github.com/iiqrah
     icon: fab fa-github-square
-  - title: LinkedIn
-    url: https://www.linkedin.com/in/jainbasil/
-    icon: fab fa-linkedin
+  - title: Dribbble
+    url: https://dribbble.com/iiqrah
+    icon: fab fa-dribbble-square
+  - title: Email
+    url: mailto:hello@iiqrah.com
+    icon: fa fa-envelope-square
