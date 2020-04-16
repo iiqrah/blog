@@ -1,12 +1,16 @@
 title: Blog || iiqrah
-logo: /assets/images/logo.png
-email: mailto:hello@iiqrah.com
 description: >-
   YouTube &middot; iOS Development &middot; Digital Art
+logo: /assets/images/logo.png
+
 baseurl: "/blog"
-twitter_username: i_iqrah
-github_username:  iiqrah
 remote_theme: "mmistakes/so-simple-theme@3.2.0"
+
+
+
+read_time: true
+words_per_minute: 200
+
 
 # Build settings
 permalink: /:categories/:title/
@@ -24,6 +28,9 @@ google_fonts:
   - name: "Lora"
     weights: "400,400i,700,700i"
 
+twitter:
+  username: "i_iqrah"
+
 paginate: 10
 paginate_path: /page:num/
 
@@ -32,8 +39,6 @@ search_full_content: true
 category_archive_path: "/categories/#"
 tag_archive_path: "/tags/#"
 
-disqus:
-  shortname: iiqrah
 
 copyright: "&copy; 2020 - iiqrah"
 footer_links:

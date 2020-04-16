@@ -3,7 +3,7 @@ layout: post
 title: "Muddled Thoughts"
 description:
 summary:
-comments: true
+#comments: true
 category: Random Thoughts
 tags: [random thoughts]
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "The dilemma between power and peace."
 description:
 summary:
-comments: true
+#comments: true
 category: Random Thoughts
 tags: [random thoughts]
 ---

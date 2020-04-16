@@ -2,8 +2,8 @@
   url: /
 - title: About
   url: /about/
-- title: Categories
-  url: /categories/
+#- title: Categories
+#  url: /categories/
 - title: Archive
   url: /posts/
 - title: Search

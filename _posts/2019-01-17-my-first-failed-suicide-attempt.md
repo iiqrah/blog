@@ -3,7 +3,7 @@ layout: post
 title: "My first failed suicide attempt."
 description:
 summary:
-comments: true
+#comments: true
 category: Random Thoughts
 tags: [random thoughts, suicide]
 ---

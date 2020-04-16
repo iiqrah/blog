@@ -3,7 +3,7 @@ layout: post
 title: "The blame game in society."
 description:
 summary:
-comments: true
+#comments: true
 category: Random Thoughts
 tags: [random thoughts]
 ---

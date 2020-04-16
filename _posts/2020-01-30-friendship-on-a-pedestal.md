@@ -3,7 +3,7 @@ layout: post
 title: "Friendship on a pedestal."
 description:
 summary:
-comments: true
+#comments: true
 category: Random Thoughts
 tags: [random thoughts]
 ---
