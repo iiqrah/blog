@@ -4,8 +4,8 @@ title: "My First Ever (Online) Write-Up"
 description:
 summary:
 comments: true
-category: Random
-tags: [random, thoughts]
+category: Random Thoughts
+tags: [random thoughts]
 ---
 
 
