@@ -23,8 +23,8 @@ plugins:
   - jekyll-archives
 
 google_fonts:
-  - name: "Permanent Marker"
-    weights: "400,400i,700,700i"
+  - name: "Source Sans Pro"
+    weights: "200,200i,400,400i"
 
 
 twitter:
