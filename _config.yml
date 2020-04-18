@@ -1,6 +1,6 @@
 title: Blog || iiqrah
 description: >-
-  YouTube &middot; iOS Development &middot; Digital Art
+  A place where I dump all my random thoughts.
 logo: /assets/images/logo.png
 
 baseurl: "/blog"
@@ -24,7 +24,7 @@ plugins:
 
 google_fonts:
   - name: "Source Sans Pro"
-    weights: "200,200i,400,400i"
+    weights: "400,400i,500,500i"
 
 
 twitter:
@@ -41,18 +41,21 @@ tag_archive_path: "/tags/#"
 
 copyright: "&copy; 2020 - iiqrah"
 footer_links:
+  - title: Website
+    url: https://iiqrah.com
+    icon: fas fa-globe
   - title: YouTube
     url: https://www.youtube.com/iiqrah
-    icon: fab fa-youtube-square
+    icon: fab fa-youtube
   - title: Twitter
     url: https://www.twitter.com/i_iqrah
-    icon: fab fa-twitter-square
+    icon: fab fa-twitter
   - title: GitHub
     url: https://www.github.com/iiqrah
-    icon: fab fa-github-square
+    icon: fab fa-github
   - title: Dribbble
     url: https://dribbble.com/iiqrah
-    icon: fab fa-dribbble-square
+    icon: fab fa-dribbble
   - title: Email
     url: mailto:hello@iiqrah.com
-    icon: fa fa-envelope-square
+    icon: fa fa-envelope

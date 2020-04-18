@@ -53,7 +53,7 @@ blockquote { background-color: #ebebed; border-left-color: #34374C; }
 
 .site-nav ul { color: #fff; background-color: #000; }
 .site-nav a { color: #fff; border-color: #000; }
-.site-nav a:hover { border-color: #fff; }
+.site-nav a:hover { border-color:coral; }
 
 .site-footer { border-top-color: #cccccc; }
 
